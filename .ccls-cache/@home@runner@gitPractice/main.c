@@ -11,7 +11,7 @@
 void showBumperStickers()
 {
     printf("\t Honk if you love peace and quiet\n");
-    printf("\t All generalizations are false.\n");
+    printf("\t All generalizations are false\n");
 }
 
 void showSayings()
